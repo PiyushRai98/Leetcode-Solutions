@@ -16,6 +16,7 @@ public:
             mini = min(mini, nums[i]);
             maxi = max(maxi, nums[i]);
         }
+        
         while (left>0 && nums[left-1]>mini)
             left--;
         while (right<n-1 && nums[right+1] < maxi)
