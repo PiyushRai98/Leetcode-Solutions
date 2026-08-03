@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
