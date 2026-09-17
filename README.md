@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -283,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
