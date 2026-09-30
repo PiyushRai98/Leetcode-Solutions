@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/PiyushRai98/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Pigeonhole Principle
 |  |
 | ------- |
